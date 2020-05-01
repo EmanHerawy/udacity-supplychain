@@ -1,7 +1,7 @@
-pragma solidity ^0.5.10;
+pragma solidity ^0.4.24;
 
 // Import the library 'Roles'
-import "@openzeppelin/contracts/access/Roles.sol";
+import "./Roles.sol";
 
 // Define a contract 'ConsumerRole' to manage this role - add, remove, check
 contract ConsumerRole {

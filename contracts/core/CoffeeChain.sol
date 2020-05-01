@@ -1,4 +1,4 @@
-// pragma solidity ^0.5.10;
+// pragma solidity ^0.4.24;
 // import './Ownable.sol';
 // import '../base/SupplyChain.sol';
  
