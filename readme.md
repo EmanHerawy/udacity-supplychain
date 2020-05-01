@@ -22,7 +22,8 @@ contract address on rinkeby:
  ``` 
     truffle migrate --network rinkeby
     
-     
+     > Compiled successfully using:
+   - solc: 0.4.24+commit.e67f0147.Emscripten.clang
 
  
     Deploying 'SupplyChain'
@@ -54,8 +55,13 @@ Summary
 
 
 node v10.18.1 (npm v6.13.4)
-Truffle version: ^0.4.24
-web3 version: 1.2.6
+Truffle version: 
+```
+truffle --version
+Truffle v5.1.17 - a development framework for Ethereum
+```
+web3 version:  "1.2.1"
+solc: 0.4.24
 
 steps to test 
 - run 
